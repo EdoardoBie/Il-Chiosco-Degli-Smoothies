@@ -1,0 +1,2 @@
+2025-01-13T10:26:07.6504517 - Rifornimento automatico effettuato per Mela
+2025-01-13T10:26:35.0691933 - Errore: com.biestro.chioscoSmoothie.Exceptions.TemperaturaErrataException: La temperatura si discosta di più di 2° da quella ideale! La temperatura dell'ambiente è 23.30353527151379
